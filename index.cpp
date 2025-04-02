@@ -4,6 +4,19 @@
 using namespace std;
 
 int main() {
+
+
+/*
+int n;
+int x = 1;
+scanf("%d",&n);
+while(n!=0){
+x+=x;
+n--;
+printf("\n");
+printf("%d",x);
+}
+/*
 /*
 int valor ;
 int n = 3;
