@@ -1,0 +1,4 @@
+=== Resultados de la Votación ===
+Maxi: 0 votos
+Ale: 1 votos
+Andy: 0 votos
